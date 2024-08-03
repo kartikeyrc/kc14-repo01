@@ -4,4 +4,5 @@ cd
 git status 
 // if not a repo
 git init
-
+git add .\filename
+git commit -m "KC14-repo1"
