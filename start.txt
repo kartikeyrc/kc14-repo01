@@ -1,0 +1,7 @@
+D:
+mkdir
+cd
+git status 
+// if not a repo
+git init
+
